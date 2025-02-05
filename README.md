@@ -13,7 +13,9 @@ Change Management – Transition strategies, impact analysis, and best practices
 📌 First Project: QA Testing & Bug Tracking for SuperTuxKart
 
 This project simulates an Agile QA workflow for SuperTuxKart, the open-source racing game. It includes:
+
 ✔️ Defined user stories and a detailed bug backlog
+
 ✔️ A structured Scrum board with sprint cycles (using Trello/Jira)
 ✔️ Comprehensive SDLC documentation from test planning to bug verification
 ✔️ A risk assessment with prioritization and mitigation strategies
