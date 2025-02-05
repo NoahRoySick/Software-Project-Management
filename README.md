@@ -1,4 +1,4 @@
-## Software-Project-Manager
+## Software-Project-Management
 🚀 Showcasing Agile, SDLC, Risk & Change Management Strategies
 
 📌 About This Repository
