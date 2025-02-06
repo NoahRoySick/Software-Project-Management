@@ -9,11 +9,11 @@
 - **Showcase Real-World QA Methodology:**  
   Demonstrate the end-to-end process of QA testing by developing detailed test cases, executing systematic tests, and meticulously documenting every finding.
 - **Highlight Agile Integration:**  
-  Illustrate how QA fits into Agile development through simulated sprints, bug triage sessions, and iterative testing cycles, using industry-standard tools like Jira or Trello.
+  Illustrate how QA fits into Agile development through simulated sprints, bug triage sessions, and iterative testing cycles, using industry-standard tools like Jira.
 - **Emphasize Risk & Change Management:**  
   Identify and categorize bugs by severity, assess risks associated with game stability, and propose effective mitigation strategies that mirror real-life QA challenges in game development.
 - **Build a Transferable Skill Set:**  
-  Provide a solid portfolio piece that reflects your ability to handle QA responsibilities in both indie studios and larger game companies, setting a strong foundation for future roles—even as you work toward project management.
+  Provide a solid portfolio piece that reflects my ability to handle QA responsibilities in both indie studios and larger game companies, setting a strong foundation for future roles—even as I work toward project management.
 
 ### Project Scope
 
@@ -37,19 +37,17 @@
 - **SuperTuxKart:**  
   The open-source game used to provide realistic test scenarios.
 - **Agile Tools:**  
-  Platforms such as Jira or Trello are used to set up and manage the bug tracking board and simulate sprint workflows.
+  Platforms such as Jira will be used to set up and manage the bug tracking board and simulate sprint workflows.
 - **Documentation:**  
   Markdown files, spreadsheets, or any standard documentation tool to record test plans, bug reports, and risk analyses.
 
 ### Expected Outcomes
 
-By working through this case study, you will have:
+By working through this case study, I will showcase:
 
 - Developed a robust QA workflow that mirrors industry practices.
-- Demonstrated your ability to systematically test and document issues in a game environment.
-- Shown proficiency in Agile methodologies, highlighting how iterative feedback and risk management play crucial roles in ensuring game quality.
-- Created a portfolio project that is both detailed and relevant, illustrating your readiness to contribute to QA teams—and eventually transition into project management roles—in the game industry.
+- Demonstrated my ability to systematically test and document issues in a game environment.
+- Show proficiency in Agile methodologies, highlighting how iterative feedback and risk management play crucial roles in ensuring game quality.
+- Created a portfolio project that is both detailed and relevant, illustrating my readiness to contribute to QA teams—and eventually transition into project management roles—in the game industry.
 
-### Future Applications
-
-The processes and methodologies documented in this case study are not limited to **SuperTuxKart**. They can be adapted and scaled to other game projects, providing a flexible framework that reflects best practices in game QA. Whether you work in an indie studio or aim to join a large game company, the skills and insights gained here will serve as a strong foundation for your career advancement.
+  
